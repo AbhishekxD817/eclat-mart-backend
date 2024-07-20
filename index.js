@@ -15,7 +15,7 @@ app.listen(PORT,async ()=>{
 })
 
 const corsOptions = {
-    origin:'https://eclat-mart-ecommerce.onrender.com/',
+    origin:'https://eclat-mart-ecommerce.onrender.com',
     credentials:true,
     optionsSuccessStatus:200
 }
